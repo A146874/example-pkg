@@ -4,7 +4,7 @@ with open("README.md", 'r') as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name = 'example-pkg=A146874',
+    name = 'example-pkg-A146874',
     version = '0.0.1',
     author = "Chris Defreitas",
     author_email = "christopher_defreitas@progressive.com",
